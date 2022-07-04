@@ -8,7 +8,7 @@ A human trying to know himself and this sad world!
 
 Well, I'm learning code to improve my skills and get a job.
 
-### What a classic code
+### What a classic code!
 ```
 <h4>Hello world and the answer of the world!</h4>
 <h5>The learners are all happy to write their first tag with <h6>Hello world !</h6></h5>
@@ -23,4 +23,4 @@ When I'm not learning I play video games (Call Of Duty for example). I read... s
 
 ## Dear bug :camera:
 
-![The bug, this (good) friend!!!.](pic-thomas-ayissi-ice-breaker.jpg "This is a sample error message.").
+![The bug, this (good) friend!!!.](pic-thomas-ayissi-ice-breaker.jpg "This is a sample error message.")
